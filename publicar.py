@@ -1,5 +1,4 @@
-i
-mport streamlit as st
+import streamlit as st
 import pyodbc
 
 # Configurar a conexão com o banco de dados SQL Server
